@@ -1,2 +1,2 @@
 # Sampling with Normalizing Flows
-Repository for sampling with normalizing flows
+Python codes for sampling with normalizing flows
