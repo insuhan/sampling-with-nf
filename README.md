@@ -1,2 +1,2 @@
-# sampling-with-nf
+# Sampling with Normalizing Flows
 Repository for sampling with normalizing flows
